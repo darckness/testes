@@ -1,4 +1,4 @@
-require 'socket'                 
+require 'socket'
 
 server = TCPServer.open(2000)
 loop {
